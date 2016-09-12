@@ -1,2 +1,4 @@
-# shopping-react-flux
-A demo shopping cart using React with Flux
+# A Simple Shopping Cart using React and Flux
+
+
+
